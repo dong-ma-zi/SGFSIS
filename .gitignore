@@ -1,0 +1,17 @@
+*.png
+*.jpg
+*.npy
+*.pth
+*.json
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.xml
+.idea
+*.yaml
+*.sh
+*.pkl
+*.xlsx
+*.txt
